@@ -111,7 +111,7 @@
     <img 
         alt = "GitHub Stats" 
         height = "150" 
-        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-14&theme=transparent&bg_color=000000&icon_color=6512b4&text_color=ccc&title_color=7a1ac6&hide_border=true&layout=compact&custom_title=Tecnologias" 
+        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-14&bg_color=000000&icon_color=6512b4&text_color=ccc&title_color=7a1ac6&hide_border=true&layout=compact&custom_title=Tecnologias&hide=batchfile,powershell,qml" 
     />
 </div>
 
