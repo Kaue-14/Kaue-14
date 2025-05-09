@@ -105,13 +105,13 @@
         alt = "GitHub Stats" 
         height = "150" 
         style="padding-right: 10px;" 
-        src = "https://github-readme-stats.vercel.app/api?username=Kaue-14&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=000000&icon_color=6512b4&text_color=ccc&title_color=7a1ac6&hide_border=true&custom_title=Estastísticas" 
+        src = "https://github-readme-stats.vercel.app/api?username=Kaue-14&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=000000&icon_color=6512b4&text_color=ccc&title_color=7a1ac6&hide_border=true&custom_title=Estastísticas" 
     />
     <!--  -->
     <img 
         alt = "GitHub Stats" 
         height = "150" 
-        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-14&bg_color=000000&icon_color=6512b4&text_color=ccc&title_color=7a1ac6&hide_border=true&layout=compact&custom_title=Tecnologias&hide=batchfile,powershell,qml" 
+        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-14&theme=dark&bg_color=000000&icon_color=6512b4&text_color=ccc&title_color=7a1ac6&hide_border=true&layout=compact&custom_title=Tecnologias&hide=batchfile,powershell,qml" 
     />
 </div>
 
