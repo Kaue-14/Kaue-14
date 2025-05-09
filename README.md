@@ -15,7 +15,7 @@
     <!--  -->
     <blockquote style = "border-left: 4px solid #7a1ac6; padding-left: 10px; color: #ccc;">
         👋 Me chamo <strong>Kauê Gabriel Magarinos</strong>, sou natural do <strong>Ernestina, Rio 
-        Grande do Sul</strong> 🧉 e tenho <strong>20 anos</strong>. 🎓 Concluí o ensino médio na <strong>escola Raimundo Correia</strong> e hoje curso 
+        Grande do Sul</strong> 🧉 e tenho <strong>19 anos</strong>. 🎓 Concluí o ensino médio na <strong>escola Raimundo Correia</strong> e hoje curso 
         <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>faculdade IDEAU</strong> 🧠
         <!--  -->
         <br><br>
