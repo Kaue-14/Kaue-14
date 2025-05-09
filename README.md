@@ -11,7 +11,7 @@
         />
     </div>
     <!-- Sobre mim -->
-    <h3 align = "center"><strong><code>🧑‍💻 Estudante de  ADS</code></strong></h3>
+    <h3><strong><code>🧑‍💻 Estudante de  ADS</code></strong></h3>
     <!--  -->
     <blockquote style = "border-left: 4px solid #7a1ac6; padding-left: 10px; color: #ccc;">
         👋 Me chamo <strong>Kauê Gabriel Magarinos</strong>, sou natural do <strong>Ernestina, Rio 
