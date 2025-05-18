@@ -15,7 +15,7 @@
     <!--  -->
     <blockquote style = "border-left: 4px solid #7a1ac6; padding-left: 10px; color: #ccc;">
         👋 Me chamo <strong>Kauê Gabriel Magarinos</strong>, sou natural do <strong>Ernestina, Rio 
-        Grande do Sul</strong> 🧉 e tenho <strong>19 anos</strong>. 🎓 Concluí o ensino médio na <strong>escola Raimundo Correia</strong> e hoje curso 
+        Grande do Sul</strong> 🧉 e tenho <strong>19 anos (🎉 14/12/2005)</strong>. 🎓 Concluí o ensino médio na <strong>escola Raimundo Correia</strong> e hoje curso 
         <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>faculdade IDEAU</strong> 🧠
         <!--  -->
         <br><br>
@@ -126,8 +126,8 @@
 <div align = "center">
     <a href = "https://discord.com/users/558725940180418570" target="_blank">
         <img
-            alt = "MySQL"
-            title = "MySQL"
+            alt = "Discord"
+            title = "Discord"
             width = "40px"
             style = "padding-right: 10px;"
             src = "https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
@@ -136,8 +136,8 @@
     <!-- Uma opção pra causo eu queira adicionar futuramente com outros -->
     <!-- <a href = "https://wa.me/+5554996020056" target="_blank">
         <img
-            alt = "MySQL"
-            title = "MySQL"
+            alt = "WhatsApp"
+            title = "WhatsApp"
             width = "40px"
             style = "padding-right: 10px;"
             src = "https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
@@ -146,8 +146,8 @@
     <!--  -->
     <a href = "https://www.linkedin.com/in/kauê-gabriel-magarinos-77b488320" target="_blank">
         <img
-            alt = "MySQL"
-            title = "MySQL"
+            alt = "LinkedIn"
+            title = "LinkedIn"
             width = "40px"
             style = "padding-right: 10px;"
             src = "https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
@@ -156,8 +156,8 @@
     <!--  -->
     <a href = "mailto:kauegabriel815@gmail.com" target="_blank">
         <img
-            alt = "MySQL"
-            title = "MySQL"
+            alt = "Gmail"
+            title = "Gmail"
             width = "40px"
             style = "padding-right: 10px;"
             src = "https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
